@@ -1,16 +1,16 @@
 # TSYP X - YP Challenge - Team X
 
-##Prototype
-Google Colab: 6th_Senso.ipynb
-Data: https://nasadata.blob.core.windows.net/nasarocks/Data.zip 
+#Prototype
+- Google Colab: 6th_Senso.ipynb
+- Data: https://nasadata.blob.core.windows.net/nasarocks/Data.zip 
 
-##Steps 
+#Steps 
 
 1) Go to this [Azure Blob storage](https://nasadata.blob.core.windows.net/nasarocks/Data.zip) and download the Data.zip folder. 
 2) Unzip the Data folder and put it in the same folder as your Jupyter Notebook file. 
 3) In Visual Studio Code, return to your Jupyter Notebook file.
 
-##Articles/Research Papers
+#Articles/Research Papers
 
 [Artemis mission and it's goals](https://www.nasa.gov/specials/artemis/)
 [3D scanning technologies](https://www.aniwaa.com/guide/3d-scanners/3d-scanning-technologies-and-the-3d-scanning-process/)
